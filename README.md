@@ -7,13 +7,12 @@ Hi there! Welcome to Bruni's Research Hub!
 💻 Currently building lightweight GCN pipelines with PyTorch Geometric  
 🔍 Passionate about developing privacy-preserving AI models
 
----
+
 
 ## 📚 Projects
 
 - [Bruni-GCN-demo](https://github.com/Bruni-LIU/Bruni-GCN-demo) - A modular GCN pipeline on custom bipartite graphs with PyTorch Geometric.
 
----
 
 ## 📈 Research Interests
 
@@ -22,13 +21,13 @@ Hi there! Welcome to Bruni's Research Hub!
 - Federated Learning and Privacy Protection
 - Time Series Forecasting in E-Commerce Supply Chains
 
----
+
 
 ## 📫 How to reach me
 
 - ✉️ Email: [s8168501@live.vu.edu.au](mailto:s8168501@live.vu.edu.au)
 
 
----
+
 
 *Thank you for visiting my profile! Let's connect and build great ideas together! 🚀*
