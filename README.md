@@ -1,33 +1,33 @@
-# Bruni-LIU
-Hi there! Welcome to Bruni's Research Hub!
-# Hi, I'm Bruni 👋
+# 👋 Hi, I'm Bruni Liu
 
-🎓 Undergraduate Researcher @ Liaoning University  
-🧠 Interested in Graph Neural Networks (GNNs), Federated Learning, and Supply Chain Optimization  
-💻 Currently building lightweight GCN pipelines with PyTorch Geometric  
-🔍 Passionate about developing privacy-preserving AI models
+🎓 Research-oriented undergraduate exploring the frontiers of **Multimodal Learning** and **Token Prediction**. My work lies at the intersection of AI architecture innovation and unified modality modeling.
 
+---
 
+## 🔬 Current Research Focus
 
-## 📚 Projects
+- **PDEformer** — A next-token prediction model replacing self-attention with **PDE-based evolution** across multimodal token sequences. Inspired by [Emu3](https://arxiv.org/abs/2403.09364), it unifies visual and textual representations into a joint prediction space.
+- **Emu3 Framework** — Studying the potential of **next-token prediction as a universal interface** for vision, text, and more. Exploring its extensibility to image-text retrieval and cross-modal indexing.
+- **CLIP + GPT-2 Captioning** — A lightweight system built during **PKU Summer School 2025**, aligning CLIP embeddings with GPT-2 to generate captions. [View project](https://github.com/Bruni-coder/multimodal-captioning-via-clip-gpt2)
 
-- [Bruni-GCN-demo](https://github.com/Bruni-LIU/Bruni-GCN-demo) - A modular GCN pipeline on custom bipartite graphs with PyTorch Geometric.
+---
 
+## 🧠 Research Interests
 
-## 📈 Research Interests
+- Multimodal Retrieval & Representation Learning
+- Attention-free Architectures
+- Federated Learning & Privacy-preserving AI
+- PyTorch Geometric & Graph-based Modeling
 
-- Graph Neural Networks (GNNs)
-- Multi-agent Reinforcement Learning
-- Federated Learning and Privacy Protection
-- Time Series Forecasting in E-Commerce Supply Chains
+---
 
+## 🌱 About Me
 
+- Passionate about building algorithms that generalize across modalities
+- Always open to collaboration and academic discussion — feel free to reach out!
 
-## 📫 How to reach me
+---
 
-- ✉️ Email: [s8168501@live.vu.edu.au](mailto:s8168501@live.vu.edu.au)
+📫 **Contact**: You can reach me via GitHub issues or connect via email (available upon request).
 
-
-
-
-*Thank you for visiting my profile! Let's connect and build great ideas together! 🚀*
+🧭 *"Step by step, toward something beautiful and true."*
