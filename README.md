@@ -28,6 +28,6 @@
 
 ---
 
-📫 **Contact**: You can reach me via GitHub issues or connect via email (available upon request).
+📫 **Contact**: You can reach me via GitHub issues or connect via email lnubruni@gmail.com.
 
 🧭 *"Step by step, toward something beautiful and true."*
