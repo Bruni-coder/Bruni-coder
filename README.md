@@ -1,33 +1,47 @@
-# 👋 Hi, I'm Bruni Liu
+# Bruni Liu
 
-🎓 Research-oriented undergraduate exploring the frontiers of **Multimodal Learning** and **Token Prediction**. My work lies at the intersection of AI architecture innovation and unified modality modeling.
+Research-oriented undergraduate exploring the frontiers of **multimodal learning** and **next-token prediction**. I build attention-free architectures and unified token interfaces across modalities.
 
----
+## Overview
 
-## 🔬 Current Research Focus
+I study whether perception can be treated as prediction: represent images and text in a shared token space and let a single model evolve that space forward. Concretely, I design PDE-driven alternatives to self-attention and evaluate them on captioning, retrieval, and cross-modal indexing.
 
-- **PDEformer** — A next-token prediction model replacing self-attention with **PDE-based evolution** across multimodal token sequences. Inspired by [Emu3](https://arxiv.org/abs/2403.09364), it unifies visual and textual representations into a joint prediction space.
-- **Emu3 Framework** — Studying the potential of **next-token prediction as a universal interface** for vision, text, and more. Exploring its extensibility to image-text retrieval and cross-modal indexing.
-- **CLIP + GPT-2 Captioning** — A lightweight system built during **PKU Summer School 2025**, aligning CLIP embeddings with GPT-2 to generate captions. [View project](https://github.com/Bruni-coder/multimodal-captioning-via-clip-gpt2)
+## Research Focus
 
----
+- **PDEformer**  
+  A next-token prediction model that replaces self-attention with **PDE-based evolution** over multimodal token sequences. Inspired by Emu3, it unifies visual and textual tokens in one prediction space and performs step-wise field updates instead of pairwise attention.
 
-## 🧠 Research Interests
+- **Emu3 as a Unified Interface**  
+  Studying next-token prediction as a general API for vision–language tasks, with extensions to image↔text retrieval and cross-modal indexing.
 
-- Multimodal Retrieval & Representation Learning
-- Attention-free Architectures
-- Federated Learning & Privacy-preserving AI
-- PyTorch Geometric & Graph-based Modeling
+- **CLIP + GPT-2 Captioning (PKU Summer School 2025)**  
+  A lightweight captioning pipeline aligning CLIP embeddings to GPT-2 for sequence generation.  
+  Project: <https://github.com/Bruni-coder/multimodal-captioning-via-clip-gpt2>
 
----
+## Interests
 
-## 🌱 About Me
+Multimodal retrieval and representation learning; attention-free architectures; federated learning and privacy; graph-based modeling with PyTorch Geometric.
 
-- Passionate about building algorithms that generalize across modalities
-- Always open to collaboration and academic discussion — feel free to reach out!
+## Selected Technical Directions
 
----
+- **Attention alternatives:** PDE-style continuous evolution, token-field dynamics, and stability/complexity trade-offs.  
+- **Unified tokenization:** constructing `[image_tokens] + text_tokens` training formats for next-token objectives.  
+- **Evaluation beyond BLEU:** retrieval-style metrics, latency/throughput under long contexts, and robustness to token sparsity.  
+- **Graph priors:** when and how graph structure benefits multimodal token propagation.
 
-📫 **Contact**: You can reach me via GitHub issues or connect via email lnubruni@gmail.com.
+## Projects
 
-🧭 *"Step by step, toward something beautiful and true."*
+- **PDEformer (research code, WIP)**  
+  Prototype of PDE-driven token evolution with image–text inputs; focuses on stability, step size control, and inference latency.
+- **CLIP-GPT2 Captioning**  
+  Minimal, readable baseline for image captioning; useful as a sanity check and ablation bed.  
+  Repo: <https://github.com/Bruni-coder/multimodal-captioning-via-clip-gpt2>
+
+## Collaboration
+
+I welcome academic discussion and lightweight collaborations around attention alternatives, unified token interfaces, and evaluation protocols for multimodal NTP systems.
+
+## Contact
+
+- Email: **lnubruni@gmail.com**  
+- GitHub Issues: open an issue on any relevant repository
