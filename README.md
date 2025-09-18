@@ -8,9 +8,6 @@ I study whether perception can be treated as prediction: represent images and te
 
 ## Research Focus
 
-- **PDEformer**  
-  A next-token prediction model that replaces self-attention with **PDE-based evolution** over multimodal token sequences. Inspired by Emu3, it unifies visual and textual tokens in one prediction space and performs step-wise field updates instead of pairwise attention.
-
 - **Emu3 as a Unified Interface**  
   Studying next-token prediction as a general API for vision–language tasks, with extensions to image↔text retrieval and cross-modal indexing.
 
